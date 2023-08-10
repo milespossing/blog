@@ -1,0 +1,7 @@
+baseURL = 'https://blog.possing.tech/'
+languageCode = 'en-us'
+title = 'Miles Possing Blog'
+theme = ['hugo-video', 'ananke', 'hugo-shortcode-gallery']
+
+[markup.goldmark.renderer]
+unsafe = true
